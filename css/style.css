@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+#container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#dice {
+    display: inline-block;
+    cursor: pointer;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+h1 {
+    color: aliceblue;
+}
